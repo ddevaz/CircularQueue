@@ -13,6 +13,15 @@ Here is the Internal Structure of the Circular Queue
     }cqueue_t;`
     
 
+Designed By
+-----------
+**A.D.H.A.R Labs Research,Bharat(India)**
+
+Abhijit Bose [info@adharlabs.in](mailto:info@adharlabs.in)
+
+[http://adharlabs.in](http://adharlabs.in)
+
+
 License
 --------
 Creative Commons Attribution-ShareAlike 3.0 Unported
