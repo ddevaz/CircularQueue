@@ -11,3 +11,12 @@ Here is the Internal Structure of the Circular Queue
 	uint16_t front,rear;//Pointer for the queue
 	uint16_t inuse;//For protected Queue Handling
     }cqueue_t;`
+    
+
+License
+--------
+Creative Commons Attribution-ShareAlike 3.0 Unported
+
+[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+
+[Full Text](http://creativecommons.org/licenses/by-sa/3.0/legalcode)
